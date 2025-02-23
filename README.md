@@ -1,5 +1,7 @@
 # 👋 Hey there! I'm @m0rPleX-16  
 
+![Profile Views](https://komarev.com/ghpvc/?username=m0rPleX-16&label=Profile%20Views&color=blue&style=flat)  
+
 ### 🚀 About Me  
 - 👀 Passionate about **programming** and solving real-world problems with code.  
 - 🌱 Currently learning **C#, ASP.NET, React.js, SQL, and Laravel**.  
