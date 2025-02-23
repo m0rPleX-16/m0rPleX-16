@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @m0rPleX-16
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Programming
-- 📫 How to reach me Programming
-- 😄 Pronouns: Programming/Programmer
-- ⚡ Fun fact: Programming
+# 👋 Hey there! I'm @m0rPleX-16  
 
-<!---
-m0rPleX-16/m0rPleX-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 About Me  
+- 👀 Passionate about **programming** and solving real-world problems with code.  
+- 🌱 Currently learning **C#, ASP.NET, React.js, SQL, and Laravel**.  
+- 💡 I build **web applications, POS systems, and language learning platforms**.  
+- 💞️ Open to collaborations on **full-stack projects and software development**.  
+
+---
+
+### 📊 GitHub Stats  
+![m0rPleX-16's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0rPleX-16&show_icons=true&theme=radical)  
+
+### 🔥 Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m0rPleX-16&layout=compact&theme=radical)  
+
+---
+
+### 🛠️ Tech Stack  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
