@@ -22,8 +22,8 @@ I'm a passionate **Full-Stack Web Developer** who loves turning ideas into reali
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m0rPleX-16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0rPleX-16&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=m0rPleX-16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0rPleX-16&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -33,7 +33,7 @@ I'm a passionate **Full-Stack Web Developer** who loves turning ideas into reali
 ### 🔝 Top Contributed Repo
 <div align="center">
 <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=m0rPlex-16&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
-<g height="180em" src="https://visitcount.itsvg.in/api?id=m0rPlex-16&icon=0&color=0)](https://visitcount.itsvg.in">
+<img height="180em" src="https://visitcount.itsvg.in/api?id=m0rPlex-16&icon=0&color=0)](https://visitcount.itsvg.in">
 </div>
 
 ---
