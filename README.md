@@ -11,9 +11,9 @@
 
 I'm a passionate **Full-Stack Web Developer** who loves turning ideas into reality through code. I enjoy building scalable web applications and exploring new technologies to solve real-world problems.
 
-- 🔭 Currently working on **web applications, POS systems, and language learning platforms**
+- 🔭 Currently working on **web applications, POS systems, and other platforms**
 - 🌱 Learning **C#, ASP.NET Core, React.js, SQL, Supabase and Laravel**
-- 👯 Looking to collaborate on **full-stack projects and open-source contributions**
+- 👯 Looking to collaborate on **full-stack web projects and open-source contributions**
 - 💬 Ask me about **web development, database design, or system architecture**
 - ⚡ Fun fact: I believe every bug is just an undocumented feature waiting to be discovered!
 
