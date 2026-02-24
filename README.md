@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mels
+# Hi there! 👋 I'm Melquiades III
 
 <div align="center">
   
@@ -9,10 +9,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** who loves turning ideas into reality through code. I enjoy building scalable web applications and exploring new technologies to solve real-world problems.
+I'm a passionate **Full-Stack Web Developer** who loves turning ideas into reality through code. I enjoy building scalable web applications and exploring new technologies to solve real-world problems.
 
 - 🔭 Currently working on **web applications, POS systems, and language learning platforms**
-- 🌱 Learning **C#, ASP.NET Core, React.js, SQL, and Laravel**
+- 🌱 Learning **C#, ASP.NET Core, React.js, SQL, Supabase and Laravel**
 - 👯 Looking to collaborate on **full-stack projects and open-source contributions**
 - 💬 Ask me about **web development, database design, or system architecture**
 - ⚡ Fun fact: I believe every bug is just an undocumented feature waiting to be discovered!
@@ -50,6 +50,7 @@ I'm a passionate **Full-Stack Developer** who loves turning ideas into reality t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"  heigth="40" alt="Next.js"/>          
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
 </div>
 
@@ -57,6 +58,7 @@ I'm a passionate **Full-Stack Developer** who loves turning ideas into reality t
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
