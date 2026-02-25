@@ -32,7 +32,7 @@ I'm a passionate **Full-Stack Web Developer** who loves turning ideas into reali
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-<img height="180em" src="https://github-contributor-stats.vercel.app/api?username=m0rPlex-16&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
+<img height="180em" src="https://github-contributor-stats.vercel.app/api?username=m0rPleX-16&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
 </div>
 
 ---
