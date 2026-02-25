@@ -27,7 +27,7 @@ I'm a passionate **Full-Stack Web Developer** who loves turning ideas into reali
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=m0rPleX-16&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0rPleX-16&theme=tokyonight&hide_border=true"/>
 </div>
 
 ### 🔝 Top Contributed Repo
