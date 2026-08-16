@@ -97,6 +97,6 @@ I am a Full-Stack Developer dedicated to engineering clean, efficient, and scala
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-m0rPleX--16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m0rPleX-16)
-[![Email](https://img.shields.io/badge/Email-yunissue16%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunissue16@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yunissue16%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrademelky16@gmail.com)
 
 </div>
