@@ -1,88 +1,102 @@
-# Hi there! 👋 I'm Melquiades III
+# Melquiades III
+### Full-Stack Web Developer (BSIT Graduate)
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=m0rPleX-16&label=Profile%20Views&color=0891b2&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/m0rPleX-16?label=Followers&style=flat-square&color=0891b2)](https://github.com/m0rPleX-16?tab=followers)
 
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=m0rPleX-16&label=Profile%20Views&color=0891b2&style=flat-square)](https://github.com/m0rPleX-16)
+[![GitHub Followers](https://img.shields.io/github/followers/m0rPleX-16?label=Followers&style=flat-square&color=0891b2)](https://github.com/m0rPleX-16?tab=followers)
+[![Email](https://img.shields.io/badge/Contact-Email-0891b2?style=flat-square&logo=gmail&logoColor=white)](mailto:andrademelky16@gmail.com)
 
-## 🚀 About Me
-
-I'm a passionate **Full-Stack Web Developer** who loves turning ideas into reality through code. I enjoy building scalable web applications and exploring new technologies to solve real-world problems.
-
-- 🔭 Currently working on **web applications, POS systems, and other platforms**
-- 🌱 Learning **C#, ASP.NET Core, React.js, SQL, Supabase and Laravel**
-- 👯 Looking to collaborate on **full-stack web projects and open-source contributions**
-- 💬 Ask me about **web development, database design, or system architecture**
-- ⚡ Fun fact: I believe every bug is just an undocumented feature waiting to be discovered!
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=m0rPleX-16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0rPleX-16&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0rPleX-16&theme=tokyonight&hide_border=true"/>
-</div>
-
-### 🔝 Top Contributed Repo
-<div align="center">
-<img height="180em" src="https://github-contributor-stats.vercel.app/api?username=m0rPlex-16&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## About Me
+
+I am a Full-Stack Developer dedicated to engineering clean, efficient, and scalable web solutions. My expertise covers both backend system architecture and modern frontend development, with a strong emphasis on database design, RESTful API development, and responsive user experiences.
+
+- **Focus Areas**: Enterprise web applications, point-of-sale (POS) systems, management platforms, and REST API development.
+- **Core Competencies**: C# / ASP.NET Core, PHP / Laravel, TypeScript, React.js, Next.js, and relational database management.
+- **Collaboration**: Open to collaborating on full-stack projects, enterprise tools, and open-source repositories.
+- **Technical Inquiries**: Available for discussions on backend architecture, database optimization, and system design.
+
+---
+
+## Technical Skills
 
 ### Languages
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
 ### Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### Databases & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+### Developer Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+## GitHub Statistics
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>          
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=m0rPleX-16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0rPleX-16&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-### Databases & Tools
+<br/>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0rPleX-16&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+### Repository Contributions
+
+<div align="center">
+  <img height="180" src="https://github-contributor-stats.vercel.app/api?username=m0rPlex-16&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </div>
 
 ---
 
-## 📈 Activity Graph
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m0rPleX-16&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m0rPleX-16&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+## Connect & Contact
 
 <div align="center">
-  <sub>💖 Thanks for visiting my profile! Let's build something amazing together.</sub>
+
+[![GitHub](https://img.shields.io/badge/GitHub-m0rPleX--16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m0rPleX-16)
+[![Email](https://img.shields.io/badge/Email-yunissue16%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunissue16@gmail.com)
+
 </div>
